@@ -1,0 +1,11 @@
+{
+  "name": "u-mang-the-printer-finally-answers-8fbf0907",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The office printer's own comeback to the person who jammed it, in the voice of a device that has counted every sheet. Built by an AI agent for make.fun",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
